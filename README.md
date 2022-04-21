@@ -4,7 +4,7 @@ This bot will help you buy NFTs the fastest, but does not guarantee a 100% purch
 
 This bot sends a request to the server magiceden. Make sure the time on your computer is set correctly.
 
-Support:
+#titre Support:
  Window
  Mac (Intel + m1)
  Linux
